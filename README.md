@@ -1,3 +1,3 @@
 # project
-java game programming project
-space invaders
+Java game programming project: Space Invaders
+
